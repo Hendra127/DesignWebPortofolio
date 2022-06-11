@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    body {
+    font-family: 'Roboto Slab', serif;
+    margin-left: 15px;
+    background-color: #353543;
+    color: white ;
+}
+.latar1 {
+    background-color: #575764;
+    height: 430px;
+}
+.logo h1 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+.menu li {
+    list-style-type: none;
+    float: left;
+    padding-right: 20px;
+}
+.menu li a {
+    text-decoration: none;
+    color: white;
+}
+.menu {
+    position: absolute ;
+    margin-top: -72px;
+    margin-left: 410px;
+}
+.menu li a:hover{
+    color: yellow;
+    font-size: 17px;
+}
+.menu1 img {
+    position: absolute;
+    list-style-type: none;
+    float: left;
+    margin-left: 1178px;
+    margin-top: -50px;
+    width: 20px ;
+}
+.ilustrasi {
+    color: white;
+    margin-top: 100px;
+    width: 480px;
+    text-align: justify;
+}
+h3 {
+    font-size: 30px;
+}
+h1 {
+    font-size: 20px;
+}
+.hero {
+    position: absolute;
+    margin-top: -710px;
+    padding: 500px;
+    border-radius: 50px;
+}
+.hero img {
+    width: 200px;
+    height: 200px;
+}
+.ilustrasi2 {
+    color: white;
+    width: 480px;
+    text-align: justify;
+    position: absolute;
+    margin-top: -250px ;
+    margin-left: 730px;
+}
+.patner {
+    width: 800px;
+    height: 85 px;
+    background-color: #575764;
+    margin: 50px auto;
+}
+.patner img {
+    padding: 9px;
+    margin-top: 2px;
+}
+.container2 {
+    width: 480px;
+    text-align: justify;
+    position: absolute;
+    margin-left: 45px;
+}
+.rating h2 {
+    display: flex;
+    justify-content: space-between;
+    color: yellow;
+    text-align: justify;
+    font-size: 25px;
+    
+}
+.rating2 h2{
+    position: absolute ;
+    margin-top: -185px;
+    margin-left: 300px;
+    color: yellow;
+}
+.prihal p {
+    position: absolute ;
+    margin-top: -140px;
+    margin-left: 300px;  
+}
+.iklan {
+    position: absolute;
+    margin-top: -490px;
+    padding: 500px;
+    border-radius: 50px;
+    margin-left: 100px; 
+}
+.iklan li {
+    list-style-type: none;
+    padding: 10px;
+}
+.kotak {
+   padding: 40px;
+   justify-content: space-between;
+    display: flex;
+}
+.box {
+    margin-top: 500px;
+    background :#575764;
+    width: 300px;
+    height: 300px;
+}
+.box img {
+    margin-left: 100px;
+    padding: 20px;
+    width: 50px;
+}
+.box p {
+    text-align: center;
+    color: white;
+}
+.portofolio {
+    width: 480px;
+    text-align: justify;
+    position: absolute;
+    margin-top: 10px;
+}
+.portofolio h2 {
+    margin-left: 50px
+}
+.portofolio p {
+    margin-left: 50px
+}
+.desain {
+    background-color: #575764;
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+.desain h3 {
+    color: yellow;
+}
+.desain img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.desain2 {
+    width: 500px;
+    height: 389px;
+    margin-top: -331px;
+    border-radius: 10px;
+    padding-left: 650px;
+}
+.desain2 h3 {
+    color: yellow;
+}
+.desain2 img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.desain3 {
+    background-color: #575764;
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+.desain3 h3 {
+    color: yellow;
+}
+.desain3 img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.desain4 {
+    width: 500px;
+    height: 389px;
+    margin-top: -331px;
+    border-radius: 10px;
+    padding-left: 650px;
+}
+.desain4 h3 {
+    color: yellow;
+}
+.desain4 img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.desain5 {
+    background-color: #575764;
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+.desain5 h3 {
+    color: yellow;
+}
+.desain5 img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.desain6 {
+    width: 500px;
+    height: 389px;
+    margin-top: -331px;
+    border-radius: 10px;
+    padding-left: 650px;
+}
+.desain6 h3 {
+    color: yellow;
+}
+.desain6 img {
+    padding-right: 50px;
+    width: 500px;
+    border-start-start-radius: 60px;
+}
+.more {
+    padding: 80px;
+    margin-left: 460px;
+}
+.orang {
+    width: 900px;
+    height: 336px;
+    background-color: #575764;
+    margin: 5px;
+    border-radius: 12px;
+    margin-left: 160px;
+}
+.ket h1 {
+    color: yellow;
+    font-size: 35px;
+    margin-top: -320px;
+    margin-left: 550px;
+}
+.ket p {
+    color: white;
+    width: 480px;
+    text-align: justify ;
+    position: absolute;
+    margin-top: -4px;
+    margin-left: 550px;
+}
+.des {
+    position: absolute;
+    width: 200px;
+    text-align: justify;
+    margin-top: -300px;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+.akhir {
+    width: 1130px;
+    height: 380px;
+    background-color: #575764;
+    border-radius: 12px;
+    margin-top: 400px;
+    margin-left: 50px;
+}
+.deskripsi {
+    width: 400px;
+    margin-left:80px;
+    padding: 30px;
+}
+.icon li {
+    list-style-type: none;
+    float: left;
+    margin-left: 120px;
+    margin-top: 7px;
+    padding: -100px;
+}
+.kanan img {
+    list-style-type: none;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 670px;
+    margin-top: -285px;
+}
+.kaki {
+    margin-top: 80px;
+    padding: 20px;
+    margin-left: 150px;
+}
+.kaki1 {
+    margin-top: -165px;
+    margin-left: 370px;
+}
+.kaki2 {
+    margin-top: -98px;
+    margin-left: 570px;
+}
+.kaki3 {
+    margin-top: -130px;
+    margin-left: 800px;
+    width: 200px;
+}
